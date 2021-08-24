@@ -14,11 +14,11 @@
       3 cookie 点击Application  FedAuth 点击一下 出来的一长串的值就是了 
 
 ### step2 
-   点击 get_url.py 填写你的COOKIE_FEDAUTH 和SHAREPOINT_ROOT
-   然后 run一下  获得当前onedrive内的文件地址 写入到get_url.txt中 
-   e.g. https://xxxx-my.sharepoint.com/personal/xxxxxxxxxxxxxxxxx/Documents/xxxxx.npy
+         点击 get_url.py 填写你的COOKIE_FEDAUTH 和SHAREPOINT_ROOT
+         然后 run一下  获得当前onedrive内的文件地址 写入到get_url.txt中 
+         e.g. https://xxxx-my.sharepoint.com/personal/xxxxxxxxxxxxxxxxx/Documents/xxxxx.npy
 
 ### step3 
-   设置你的默认浏览器为Chrome  去chrome_download.py 处设置下save_path 文件较大 网速较慢的时候 最下面的sleep时间可以长一些
+      设置你的默认浏览器为Chrome  去chrome_download.py 处设置下save_path 文件较大 网速较慢的时候 最下面的sleep时间可以长一些
 
 
